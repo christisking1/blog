@@ -1,0 +1,8 @@
+[submodule "christisking.one/christisking1.github.io"]
+	path = christisking.one/christisking1.github.io
+	url = https://github.com/christisking1/christisking1.github.io.git
+	branch = main
+[submodule "christisking.one/public"]
+	path = christisking.one/public
+	url = https://github.com/christisking1/christisking1.github.io.git
+	branch = main

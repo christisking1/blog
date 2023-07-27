@@ -1,0 +1,4 @@
+baseURL = 'http://christisking.github.io/'
+languageCode = 'en-us'
+title = 'Christ Is King: Christian Writing and Resources for the Called and the Called to.'
+theme = 'hugo-book'
